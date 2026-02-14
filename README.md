@@ -123,5 +123,5 @@ A fully functional **vision-guided pick-and-place system** capable of:
 
 ## Author
 
-Pulkit Garg
+**Pulkit Garg**  
 Robotics Facilitator | Autonomous Systems Enthusiast
