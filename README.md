@@ -7,7 +7,7 @@ This project focuses on designing and implementing a **vision-based pick-and-pla
 The system autonomously identifies colored objects using a camera and places them into their respective **color-coded baskets**.
 
 <p align="center">
-  <img src="images/setup.jpeg" width="500"/>
+  <img src="images/setup.jpeg" width="500" height="400"/>
 </p>
 
 ## Project Aim
