@@ -38,6 +38,10 @@ By the end of the project, you are expected to successfully demonstrate the foll
 * Accurate movement between pick and place locations
 * Smooth and repeatable operation
 
+### System Demonstration
+
+![Pick and Place Operation](images/cobot_arm_image.png)
+
 ### 2️Camera Integration
 
 * Mounting and calibration of camera for object detection
@@ -52,6 +56,10 @@ By the end of the project, you are expected to successfully demonstrate the foll
 
 * Opening and closing of the gripper
 * Synchronization of gripper action with arm movement
+
+### System Demonstration
+
+![Gripper](images/gripper_design.png)
 
 ### 5️Computer Vision with OpenCV
 
