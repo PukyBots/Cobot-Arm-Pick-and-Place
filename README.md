@@ -6,6 +6,10 @@ This project focuses on designing and implementing a **vision-based pick-and-pla
 
 The system autonomously identifies colored objects using a camera and places them into their respective **color-coded baskets**.
 
+<p align="center">
+  <img src="https://static.elephantrobotics.com/wp-content/uploads/2022/02/%E5%88%9B%E6%84%8F%E5%BC%80%E5%8F%91-520px-%E5%8E%8B%E7%BC%A9.gif" width="500"/>
+</p>
+
 ---
 
 ## Project Aim
@@ -26,6 +30,16 @@ During this project, you will gain hands-on experience in:
 * Robot Arm Kinematics & Motion Planning
 * Vision-Based Automation using OpenCV
 * Hardware–Software Integration
+
+---
+
+## Software Requirement
+
+To enable communication with the Cobot Arm 280, you need to install the required Python library:
+
+```bash
+pip install pymycobot --upgrade
+```
 
 ---
 
@@ -52,6 +66,8 @@ By the end of the project, you are expected to successfully demonstrate the foll
 * Mechanical fixing and workspace setup of the cobot arm
 * Ensuring safety and stability
 
+![Pick and Place Operation](images/cobot_arm.png)
+
 ### 4️Gripper Control
 
 * Opening and closing of the gripper
@@ -60,6 +76,8 @@ By the end of the project, you are expected to successfully demonstrate the foll
 ### System Demonstration
 
 ![Gripper](images/gripper_design.png)
+
+![Pick and Place Operation](images/attachments.png)
 
 ### 5️Computer Vision with OpenCV
 
