@@ -7,9 +7,8 @@ This project focuses on designing and implementing a **vision-based pick-and-pla
 The system autonomously identifies colored objects using a camera and places them into their respective **color-coded baskets**.
 
 <p align="center">
-  <img src="https://static.elephantrobotics.com/wp-content/uploads/2022/02/%E5%88%9B%E6%84%8F%E5%BC%80%E5%8F%91-520px-%E5%8E%8B%E7%BC%A9.gif" width="500"/>
+  <img src="images/color_deetct.gif" width="500"/>
 </p>
-
 ---
 
 ## Project Aim
