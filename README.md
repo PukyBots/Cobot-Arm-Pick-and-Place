@@ -7,7 +7,7 @@ This project focuses on designing and implementing a **vision-based pick-and-pla
 The system autonomously identifies colored objects using a camera and places them into their respective **color-coded baskets**.
 
 <p align="center">
-  <img src="./images/color_detect.gif" width="500"/>
+  <img src="images/setup.jpeg" width="500"/>
 </p>
 
 ## Project Aim
@@ -88,7 +88,9 @@ By the end of the project, you are expected to successfully demonstrate the foll
 Camera Capture → Color Detection → Object Localization →
 Pick Command → Gripper Actuation → Place Command
 ```
-
+<p align="center">
+  <img src="./images/color_detect.gif" width="500"/>
+</p>
 ---
 
 ## Technologies Used
@@ -98,8 +100,6 @@ Pick Command → Gripper Actuation → Place Command
 * OpenCV
 * Python
 * Robot Control Interface
-
-![Pick and Place Operation](images/setup.jpeg)
 
 ---
 
