@@ -1,6 +1,6 @@
 # Pick and Place Automation Using Cobot Arm with Vision-Based Color Detection
 
-## Internship Overview
+## Overview
 
 This project focuses on designing and implementing a **vision-based pick-and-place system** using a **Collaborative Robot Arm (Cobot Arm 280)**.
 
@@ -98,6 +98,8 @@ Pick Command → Gripper Actuation → Place Command
 * OpenCV
 * Python
 * Robot Control Interface
+
+![Pick and Place Operation](images/setup.jpeg)
 
 ---
 
