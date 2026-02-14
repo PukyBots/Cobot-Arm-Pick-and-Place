@@ -9,7 +9,6 @@ The system autonomously identifies colored objects using a camera and places the
 <p align="center">
   <img src="./images/color_detect.gif" width="500"/>
 </p>
----
 
 ## Project Aim
 
@@ -70,7 +69,6 @@ By the end of the project, you are expected to successfully demonstrate the foll
 * Opening and closing of the gripper
 * Synchronization of gripper action with arm movement
 
-### System Demonstration
 
 ![Gripper](images/gripper_design.png)
 
